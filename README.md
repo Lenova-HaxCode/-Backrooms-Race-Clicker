@@ -1,4 +1,4 @@
-ocal placeId = game.PlaceId
+local placeId = game.PlaceId
 if placeId == 9649680488 then
     BRC = true
 end
